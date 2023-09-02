@@ -4,7 +4,7 @@
  * @tree: pointer to the tree
  * Return: pointer to y=the new tree
  */
-binary_tree_t *binary_tree_rotate_right(binary_tree_t *tree);
+binary_tree_t *binary_tree_rotate_right(binary_tree_t *tree)
 {
 	binary_tree_t *new_tree;
 
